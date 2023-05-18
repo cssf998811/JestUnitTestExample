@@ -32,8 +32,5 @@ Ran all test suites.
 Done in 2.94s.
 ```
 Reference:
-[Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications](https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/)
-[TDD入門](https://hackmd.io/@taichunmin/slide-tdd-intro#/)
-
-
-
+* [Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications](https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/)
+* [TDD入門](https://hackmd.io/@taichunmin/slide-tdd-intro#/)
