@@ -23,9 +23,9 @@ test("addition of 4 and 6 to equal 10", () => {
     expect(additionCalculator(4, 6)).toBe(10);
 });
 ```
-測試的目標為何？ -> test('...', ()=>{})
-導入要測試的函式 -> additionCalculator()
-測試的期望是什麼？ -> expect(...).toBe(...);
+* 測試的目標為何？ -> test('...', ()=>{})
+* 導入要測試的函式 -> additionCalculator()
+* 測試的期望是什麼？ -> expect(...).toBe(...);
 
 
 執行測試
